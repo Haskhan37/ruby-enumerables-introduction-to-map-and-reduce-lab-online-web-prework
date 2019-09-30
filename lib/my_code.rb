@@ -7,7 +7,5 @@ def map_example
     for i in my_array
     puts i * -1
     update_array << i * -1
-    end
-    update_array
   end
   map_example
